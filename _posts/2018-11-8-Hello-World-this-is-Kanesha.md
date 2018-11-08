@@ -12,7 +12,7 @@ Most certainly I'm someone who can not sit around doing nothing when there are s
 ## Why am I here?
 Although many scholars are here simply because their parents want them to be that's definitely not the case for me I'm here for myself and no other reason. If anybody had the opportunity to have an associates degree for free and all they have to do is hold up their end of the bargain then why not go ahead and take the courses. I'm here because I want to be able to have some education besides just a diploma under my belt when I graduate. I want my younger siblings to look at me as a role model that they wouldn't mind following they should be able to say if she could do it then I can too. I'm here because this also gives me a chance to have a different mindset when I go to a four year University I'll be more equipped and prepared for challenges that I'll have to soon face. I'm here to take advantage of what some will over look and then look back and regret it. I'm here to make my family proud of me as well as those who look up to me.
 
----
+<hr/>
 
 ## How do I see myself 5+ in years?
 - In five years from now I can see myself being excepted into a medical school then completing the four years and looking for a hospital to resident in.
