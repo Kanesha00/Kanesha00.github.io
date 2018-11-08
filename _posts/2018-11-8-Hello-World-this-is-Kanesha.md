@@ -15,13 +15,13 @@ Although many scholars are here simply because their parents want them to be tha
 ***
 
 ## How do I see myself 5+ in years?
--In five years from now I can see myself being excepted into a medical school then completing the four years and looking for a hospital to resident in.
--Then after I take the certification test and pass I'll be ready to start my practice.
--When I'm situated with everything I want to move out of Texas and start new with a nice home and a hospital to work in.
--*One day I want to own two cars an Audi that is black and a Jeep Wrangler fully loaded in the color grey.*
+- In five years from now I can see myself being excepted into a medical school then completing the four years and looking for a hospital to resident in.
+- Then after I take the certification test and pass I'll be ready to start my practice.
+- When I'm situated with everything I want to move out of Texas and start new with a nice home and a hospital to work in.
+- *One day I want to own two cars an Audi that is black and a Jeep Wrangler fully loaded in the color grey.*
 
 
-Then one day I want to get married and have a decent sized wedding with both sides of our family and friends there to witness the vows. I want the wedding venue to be extravagant a beach wedding with lots of fresh flowers and every one wearing floral colors while I'll have on a white dress. After our vows have been said I want to jump the broom although it isn't a tradition for our family I just want to do it because I've seen it in a movie. ~~I want to have five kids.~~
+>Then one day I want to get married and have a decent sized wedding with both sides of our family and friends there to witness the vows. >I want the wedding venue to be extravagant a beach wedding with lots of fresh flowers and every one wearing floral colors while I'll >have on a white dress. After our vows have been said I want to jump the broom although it isn't a tradition for our family I just want >to do it because I've seen it in a movie. ~~I want to have five kids.~~
 
 1. Two sets of twins
 2. Two boys
