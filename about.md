@@ -4,11 +4,26 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+<h1>My Resume</h1>
 
-### More Information
+<h2>Kanesha Williams</h2>
 
-A place to include any other types of information that you'd like to include about yourself.
+<p>123@gmail.com</p>
+
+<h2>Skills</h2>
+
+<ul>
+  <li>Certified in Word 2016</li>
+  <li>Passed EOC exams</li>
+</ul>
+
+<h2>Education</h2>
+
+<ul>
+  <li>Collegiate Academy</li>
+  <li>Web Design</li>
+  <li>El Centro college</li>
+</ul>
 
 ### Contact me
 
